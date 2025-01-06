@@ -36,13 +36,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   - Visualization aspect
 
 ### Potential App Idea
-- Type: Improving existing app
-- App: Reddit
-- Idea: the current way messages are collapsed is annoying. You'll get interested in a comment thread, then you see scattered collapsed comments with any number of replies. I would implement 1) a more simplistic layout, and 2)some feature that allows you to extract out the most liked replies or a filter search.
+- **Type**: Improving existing app
+- **App**: Reddit
+- **Idea**: the current way comment replies collapse is annoying. You'll get interested in a comment thread, then you see scattered collapsed comments with any number of replies. I would implement 1) a more simplistic layout, and 2)some feature that allows you to extract out the most liked replies or a filter search.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I faced was fixing bugs that came up for build targets (namely multiple build files or none at all). I also faced the challenge of finding the inspector navigation view, since I am new to XCode.
 
 ## License
 
